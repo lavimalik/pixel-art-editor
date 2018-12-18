@@ -1,7 +1,6 @@
 # pixel-art-editor
-https://pixelart-editor.netlify.com/
 
-Project: A Pixel Art Editor 
+Project: A Pixel Art Editor https://pixelart-editor.netlify.com/
 
 From Chapter 19 of the 3rd edition of [Eloquent JavaScript](https://eloquentjavascript.net) by [Marijn Haverbeke](https://twitter.com/MarijnJH)
 
